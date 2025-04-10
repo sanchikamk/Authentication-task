@@ -71,5 +71,4 @@ This is a Node.js application implementing user authentication and authorization
     "updatedAt":{"$date":{"$numberLong":"1744286847005"}},
     "__v":{"$numberInt":"0"}}
     
-   <img width="1277" alt="Screenshot 2025-04-10 at 5 47 50 PM" src="https://github.com/user-attachments/assets/9c5fb3d0-87da-4210-b8d9-a9ecdefba39d" />
-
+  <img width="1274" alt="Screenshot 2025-04-10 at 5 56 20 PM" src="https://github.com/user-attachments/assets/2e874c87-555a-4b6f-9ab5-9d86d41b8ab0" />
